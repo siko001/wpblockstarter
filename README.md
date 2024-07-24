@@ -1,5 +1,5 @@
 # wpblockstarter
 
-cd blocks
-npm i
-npm run build
+cd blocks<br>
+npm i<br>
+npm run build<br>
