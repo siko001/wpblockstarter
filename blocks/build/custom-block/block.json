@@ -1,0 +1,16 @@
+{
+  "name": "sancho/custom-block",
+  "title": "Custom Block",
+  "description": "A custom  block.",
+  "category": "formatting",
+  "icon": "smiley",
+  "keywords": [
+    "testimonial",
+    "quote"
+  ],
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "template.php"
+  },
+  "align": "full"
+}
